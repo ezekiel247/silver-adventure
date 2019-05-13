@@ -2,7 +2,7 @@ Cython==0.29.7
 mysql-connector==2.2.9
 mysqlclient==1.4.2.post1
 numexpr==2.6.9
-numpy==1.13.3
+numpy==1.16.3
 pandas==0.21.1
 pkg-resources==0.0.0
 psutil==2.1.1
