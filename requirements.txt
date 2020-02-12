@@ -1,4 +1,4 @@
-pycryptodome == 3.6.4
+pycryptodome == 3.6.6
 Cython == 0.25.2
 numexpr >= 2.5.2
 numpy == 1.13.3
